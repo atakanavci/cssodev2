@@ -1,0 +1,128 @@
+/*----------- GOOGLE BETA İMG DÜZENİ -------------*/
+
+.div-img-google {
+    margin-top: 20%;
+    padding-left: 40%;
+}
+
+/*--------- SEARCH KISMI VE TEXT YAZILARI KISMI ------------ */
+.p-txt-center{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Quicksand', sans-serif;
+}
+.kutu{
+    background-color: #dcdcdc;
+    width: 1850px;
+    height: 77px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1%;
+}
+.kutu2{
+    
+    margin-top: -3%;
+    margin-left: 39%;
+}
+.input-genislik{
+    width: 390px;
+}
+.btn-margin{
+    margin: 0px auto;
+}
+.btn{
+    margin-top: -4;
+    margin-left: 44%;
+    font-family: 'Quicksand', sans-serif;
+}
+/*------KUTU VE LİNK AYARLARI 1 ---------- */
+.kutu-lnk1{
+    background-color: #00ced1;
+    width: 700px;
+    height: 85px;
+    margin-left: 27px;
+    margin-top: 1px;
+}
+.p-txt-center1{
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 2%;
+    margin-left: 5%;
+}
+.kutu-lnk-1{
+    margin-top:  -3.5em;
+    margin-left: 21.5em;
+}
+.a-lnk-dzn-1 {
+    margin-top: 20%;
+    margin-left: 18.5%;
+}
+
+/*------KUTU ve LİNK AYARLARI 2 ---------- */
+.kutu-lnk-2{
+    background-color: #008080;
+    width: 250px;
+    height: 85px;
+    margin-left: 45.5em;
+    margin-top: -79.7px;
+    
+}
+.a-lnk-dzn-ayr-2{
+    margin-left: 3%;
+    margin-top: 10em;
+    
+}
+.txt-dec-2{
+    list-style-type: none;
+    font-size: 15px;
+    margin-left: 18%;
+    font-family: 'Quicksand', sans-serif;
+   padding-top: -1em;
+
+}
+.help-2 {
+    margin-left: 17%;
+    font-family: 'Quicksand', sans-serif;
+}
+/*------KUTU ve LİNK AYARLARI 4 ---------- */
+.kutu-lnk-4{
+    background-color: #6b8e23;
+    width: 897px;
+    height: 85px;
+    margin-left: 51.4%;
+    margin-right: auto;
+    margin-top:  -101px;
+}
+.p-ayr-4{
+    text-align: center;
+}
+.p-ayr-4-1{
+    margin-top: -1em;
+    text-align: center;
+}
+.input-ayr{
+    margin-left: 82.8em;
+    margin-top: -3em;
+}
+.input-ayr-1{
+    width: 200px;
+}
+::-webkit-input-placeholder {
+    color: black;
+}
+
+::-o-input-placeholder {
+    color: black;
+}
+::placeholder {
+    color: black;
+    opacity: 1;
+}
+.btn-ayr-4{
+    margin-left: 84.6em;
+}
+.a-lnk-4{
+    margin-left: 89.5em;
+    margin-top: -1.3em;
+}
